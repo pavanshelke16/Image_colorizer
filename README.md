@@ -1,4 +1,4 @@
-# Image Colorization App
+# Image Colorizer
 
 This project is an image colorization application that transforms black and white images into colorized versions using deep learning techniques. It leverages a pre-trained model based on the colorization_deploy_v2 architecture using OpenCV's DNN (Deep Neural Networks) module and the Caffe framework.
 
